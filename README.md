@@ -12,4 +12,5 @@ i use :
 - zxing-j2se-1.7
 
 note:
-Most users can run stably on JDK 1.8
+- in src add the java package "image" or delete the section pointing to src/image in the package view/Barcode.java
+- Most users can run stably on JDK 1.8
